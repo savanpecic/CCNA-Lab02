@@ -4,7 +4,7 @@ Ovaj repozitorijum sadrži praktični lab rađen u programu **Cisco Packet Trace
 
 ---
 
-## Mrežna Topologija
+## VTP
 
 ![VTP](VTP.png)
 
