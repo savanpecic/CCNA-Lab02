@@ -4,6 +4,10 @@ Ovaj repozitorijum sadrži praktični lab rađen u programu **Cisco Packet Trace
 
 ---
 
+## Mrežna Topologija
+
+![VTP](VTP.png)
+
 ##  Topologija Mreže i Uloge Uređaja
 
 Mreža se sastoji od 4 Cisco switcha povezanih u niz preko Gigabit Ethernet magistrala (**Trunk** linkovi):
